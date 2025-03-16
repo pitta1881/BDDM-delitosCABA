@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Feature",
+    "id": "comisarias|5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.453221681665745, -34.62038139407487]
+    },
+    "properties": {
+      "Id": "comisarias|5",
+      "Nombre": "Comisaría Comunal 6",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39236199141656, -34.591136443178065]
+    },
+    "properties": {
+      "Id": "comisarias|8",
+      "Nombre": "Comisaría Comunal 2",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|11",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37420889062525, -34.620251621584664]
+    },
+    "properties": {
+      "Id": "comisarias|11",
+      "Nombre": "Comisaría Comunal 1 Sur",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|25",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47582111795261, -34.57311659711079]
+    },
+    "properties": {
+      "Id": "comisarias|25",
+      "Nombre": "Comisaría Comunal 13",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|26",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45825635403174, -34.63092244517284]
+    },
+    "properties": {
+      "Id": "comisarias|26",
+      "Nombre": "Comisaría Comunal 7",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|30",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.472991016009026, -34.61111984929798]
+    },
+    "properties": {
+      "Id": "comisarias|30",
+      "Nombre": "Comisaría Comunal 11",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|38",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393686, -34.61501]
+    },
+    "properties": {
+      "Id": "comisarias|38",
+      "Nombre": "Comisaría Comunal 3",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|42",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41366150581629, -34.58126954919629]
+    },
+    "properties": {
+      "Id": "comisarias|42",
+      "Nombre": "Comisaría Comunal 14",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|46",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.415561105033156, -34.60442790800548]
+    },
+    "properties": {
+      "Id": "comisarias|46",
+      "Nombre": "Comisaría Comunal 5",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|47",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.490908786083, -34.55110397626534]
+    },
+    "properties": {
+      "Id": "comisarias|47",
+      "Nombre": "Comisaría Comunal 12",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|48",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.451231331674634, -34.59041999159752]
+    },
+    "properties": {
+      "Id": "comisarias|48",
+      "Nombre": "Comisaría Comunal 15",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|49",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40283281867736, -34.64194792387005]
+    },
+    "properties": {
+      "Id": "comisarias|49",
+      "Nombre": "Comisaría Comunal 4",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|52",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.49408697580272, -34.63923454480785]
+    },
+    "properties": {
+      "Id": "comisarias|52",
+      "Nombre": "Comisaria Comunal 10",
+      "Tipo": "Comunal-Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|54",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.527565, -34.634922]
+    },
+    "properties": {
+      "Id": "comisarias|54",
+      "Nombre": "Comisaria Comunal 9",
+      "Tipo": "Comunal-Vecinal"
+    }
+  }
+]

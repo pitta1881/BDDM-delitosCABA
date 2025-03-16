@@ -1,0 +1,314 @@
+[
+  {
+    "type": "Feature",
+    "id": "pubs|20",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43767153449254, -34.583018911345135]
+    },
+    "properties": {
+      "Id": "pubs|20",
+      "Nombre": "Acabar"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|19",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.417581481937525, -34.611036958994376]
+    },
+    "properties": {
+      "Id": "pubs|19",
+      "Nombre": "Acatraz"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|18",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38569889723369, -34.61863639425706]
+    },
+    "properties": {
+      "Id": "pubs|18",
+      "Nombre": "Boquitas Pintadas"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|17",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.376509755838825, -34.61850647373597]
+    },
+    "properties": {
+      "Id": "pubs|17",
+      "Nombre": "Brewhouse Club Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|22",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.390932092482565, -34.60557980735609]
+    },
+    "properties": {
+      "Id": "pubs|22",
+      "Nombre": "Celta Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|16",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4374930225579, -34.58329713337732]
+    },
+    "properties": {
+      "Id": "pubs|16",
+      "Nombre": "Coyar de buitres"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|15",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42982931725533, -34.5884180691578]
+    },
+    "properties": {
+      "Id": "pubs|15",
+      "Nombre": "Crónico"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|14",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.373252811707864, -34.595629997153885]
+    },
+    "properties": {
+      "Id": "pubs|14",
+      "Nombre": "Druid In"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|13",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43003745518046, -34.58893894783279]
+    },
+    "properties": {
+      "Id": "pubs|13",
+      "Nombre": "El taller"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|12",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38431875374039, -34.594985910900796]
+    },
+    "properties": {
+      "Id": "pubs|12",
+      "Nombre": "Gran bar Danzón"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|11",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.372345541515216, -34.62067202906578]
+    },
+    "properties": {
+      "Id": "pubs|11",
+      "Nombre": "Guebara"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|10",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393628349030635, -34.58892116267669]
+    },
+    "properties": {
+      "Id": "pubs|10",
+      "Nombre": "Hooters"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|23",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43151738396368, -34.5718991873126]
+    },
+    "properties": {
+      "Id": "pubs|23",
+      "Nombre": "Jackie O"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|21",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.373057520543426, -34.59697281237107]
+    },
+    "properties": {
+      "Id": "pubs|21",
+      "Nombre": "Jhon Jhon"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37145156233426, -34.5993151827734]
+    },
+    "properties": {
+      "Id": "pubs|9",
+      "Nombre": "La Cigale"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38839146313296, -34.596559398171294]
+    },
+    "properties": {
+      "Id": "pubs|8",
+      "Nombre": "Million"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|7",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37031661333873, -34.61579932785114]
+    },
+    "properties": {
+      "Id": "pubs|7",
+      "Nombre": "Moliere"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.425574748758656, -34.5855174629304]
+    },
+    "properties": {
+      "Id": "pubs|6",
+      "Nombre": "Mundo Bizarro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|24",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.392779156700485, -34.58909749233827]
+    },
+    "properties": {
+      "Id": "pubs|24",
+      "Nombre": "New Port Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43054935266036, -34.57246607906636]
+    },
+    "properties": {
+      "Id": "pubs|5",
+      "Nombre": "Soul café"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.430565601881895, -34.5888870007958]
+    },
+    "properties": {
+      "Id": "pubs|4",
+      "Nombre": "Tazz 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.373156211682456, -34.59627958043032]
+    },
+    "properties": {
+      "Id": "pubs|3",
+      "Nombre": "The Kilkenny"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39213814494332, -34.59462478922903]
+    },
+    "properties": {
+      "Id": "pubs|2",
+      "Nombre": "The Shamrock"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43647665267617, -34.58408795154165]
+    },
+    "properties": {
+      "Id": "pubs|1",
+      "Nombre": "Único"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|25",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43159410044864, -34.571854328667364]
+    },
+    "properties": {
+      "Id": "pubs|25",
+      "Nombre": "Voodoo bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "pubs|26",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4381965702986, -34.56312886235747]
+    },
+    "properties": {
+      "Id": "pubs|26",
+      "Nombre": "Wynery"
+    }
+  }
+]

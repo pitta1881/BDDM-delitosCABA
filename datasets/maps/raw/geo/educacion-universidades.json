@@ -1,0 +1,1802 @@
+[
+  {
+    "type": "Feature",
+    "id": "universidades|23",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39544078917335, -34.60267847932716]
+    },
+    "properties": {
+      "Id": "universidades|23",
+      "Nombre": "FLACSO (Facultad Latinoamericana de Ciencias Sociales) (FLACSO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|48",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.433825607827586, -34.57213793362024]
+    },
+    "properties": {
+      "Id": "universidades|48",
+      "Nombre": "Instituto de Enseñanza Superior del Ejército (IESE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|26",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43574212174929, -34.57459125776814]
+    },
+    "properties": {
+      "Id": "universidades|26",
+      "Nombre": "Instituto de Enseñanza Superior del Ejército (IESE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|97",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3680226128748, -34.60333614770179]
+    },
+    "properties": {
+      "Id": "universidades|97",
+      "Nombre": "Instituto Tecnológico de Buenos Aires (ITBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|33",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37038520153322, -34.58429848979401]
+    },
+    "properties": {
+      "Id": "universidades|33",
+      "Nombre": "Instituto Universitario Aeronáutico (IUA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|99",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3856038212387, -34.6134837776707]
+    },
+    "properties": {
+      "Id": "universidades|99",
+      "Nombre": "Instituto Universitario Aeronáutico (IUA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|94",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.370332109463135, -34.59941648435023]
+    },
+    "properties": {
+      "Id": "universidades|94",
+      "Nombre": "Instituto Universitario Aeronáutico (IUA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|100",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.49468074281743, -34.557407213709546]
+    },
+    "properties": {
+      "Id": "universidades|100",
+      "Nombre": "Instituto Universitario CEMIC (IUC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|101",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39563458211243, -34.588621971534955]
+    },
+    "properties": {
+      "Id": "universidades|101",
+      "Nombre": "Instituto Universitario de Ciencias de la Salud Fundación H.A. Barceló (BARCELO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|102",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.379453391221055, -34.614098679119905]
+    },
+    "properties": {
+      "Id": "universidades|102",
+      "Nombre": "Instituto Universitario de la Fundación ISALUD (ISALUD)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|29",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40392744345322, -34.57361424960639]
+    },
+    "properties": {
+      "Id": "universidades|29",
+      "Nombre": "Instituto Universitario de la Policía Federal Argentina (IUPFA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|104",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41166447299967, -34.63951196927601]
+    },
+    "properties": {
+      "Id": "universidades|104",
+      "Nombre": "Instituto Universitario de la Policía Federal Argentina (IUPFA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|103",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.436403015667786, -34.61955416479018]
+    },
+    "properties": {
+      "Id": "universidades|103",
+      "Nombre": "Instituto Universitario de la Policía Federal Argentina (IUPFA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|53",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43699237413682, -34.567986473179666]
+    },
+    "properties": {
+      "Id": "universidades|53",
+      "Nombre": "Instituto Universitario de Salud Mental de la Asociación Psicoanalitica de Buenos A (APdeBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|11",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.371872398849014, -34.60302417203327]
+    },
+    "properties": {
+      "Id": "universidades|11",
+      "Nombre": "Instituto Universitario de Seguridad Marítima"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39126611829886, -34.59962704913345]
+    },
+    "properties": {
+      "Id": "universidades|8",
+      "Nombre": "Instituto Universitario Escuela Argentina de Negocios (IUEAN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|77",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42680796180036, -34.607330852298546]
+    },
+    "properties": {
+      "Id": "universidades|77",
+      "Nombre": "Instituto Universitario \"Escuela de Medicina del Hospital Italiano\" (IUEMHI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|98",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.423070534386866, -34.58087851145938]
+    },
+    "properties": {
+      "Id": "universidades|98",
+      "Nombre": "Instituto Universitario \"Escuela Superior de Economía y Administración de Empresas (ESEADE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|57",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39251101981067, -34.61275616357428]
+    },
+    "properties": {
+      "Id": "universidades|57",
+      "Nombre": "Instituto Universitario IDEA (IDEA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|27",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45721632925445, -34.63071248594855]
+    },
+    "properties": {
+      "Id": "universidades|27",
+      "Nombre": "Instituto Universitario ISEDET (ISEDET)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|28",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.457169944237336, -34.63081261734272]
+    },
+    "properties": {
+      "Id": "universidades|28",
+      "Nombre": "Instituto Universitario ISEDET (ISEDET)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|7",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46063929849724, -34.53889310588288]
+    },
+    "properties": {
+      "Id": "universidades|7",
+      "Nombre": "Instituto Universitario Naval (INUN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|13",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46369022406897, -34.54089570506929]
+    },
+    "properties": {
+      "Id": "universidades|13",
+      "Nombre": "Instituto Universitario Naval (INUN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|17",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37132440289731, -34.65136911287913]
+    },
+    "properties": {
+      "Id": "universidades|17",
+      "Nombre": "Instituto Universitario Naval (INUN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.367543629264254, -34.587553436766896]
+    },
+    "properties": {
+      "Id": "universidades|6",
+      "Nombre": "Instituto Universitario Naval (INUN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|34",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.508295862020645, -34.593291295070436]
+    },
+    "properties": {
+      "Id": "universidades|34",
+      "Nombre": "Pontificia Universidad Católica Argentina (UCA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|79",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44458295909375, -34.57931134480374]
+    },
+    "properties": {
+      "Id": "universidades|79",
+      "Nombre": "Pontificia Universidad Católica Argentina (UCA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|107",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.366048502258565, -34.61445785803403]
+    },
+    "properties": {
+      "Id": "universidades|107",
+      "Nombre": "Pontificia Universidad Católica Argentina (UCA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|108",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36590073166516, -34.61571856882201]
+    },
+    "properties": {
+      "Id": "universidades|108",
+      "Nombre": "Pontificia Universidad Católica Argentina (UCA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36620667256201, -34.61315309716365]
+    },
+    "properties": {
+      "Id": "universidades|1",
+      "Nombre": "Pontificia Universidad Católica Argentina (UCA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|19",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37966350063161, -34.62204319815122]
+    },
+    "properties": {
+      "Id": "universidades|19",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|74",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37721610550087, -34.62022207688387]
+    },
+    "properties": {
+      "Id": "universidades|74",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|55",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.453924278096295, -34.55150888327352]
+    },
+    "properties": {
+      "Id": "universidades|55",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|109",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3763098270303, -34.60911849900103]
+    },
+    "properties": {
+      "Id": "universidades|109",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|56",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37505366366011, -34.63671336556208]
+    },
+    "properties": {
+      "Id": "universidades|56",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|59",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.425589437108734, -34.6019675832976]
+    },
+    "properties": {
+      "Id": "universidades|59",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|75",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37744389245773, -34.616754262663186]
+    },
+    "properties": {
+      "Id": "universidades|75",
+      "Nombre": "Universidad Abierta Interamericana (UAI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|110",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.381603138780406, -34.61707403497879]
+    },
+    "properties": {
+      "Id": "universidades|110",
+      "Nombre": "Universidad Argentina de la Empresa (UADE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|116",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39355686690119, -34.607533086285216]
+    },
+    "properties": {
+      "Id": "universidades|116",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|67",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.440037928451744, -34.61673208085601]
+    },
+    "properties": {
+      "Id": "universidades|67",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|71",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3741157815864, -34.62144034076336]
+    },
+    "properties": {
+      "Id": "universidades|71",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|112",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37286414025584, -34.62142767235715]
+    },
+    "properties": {
+      "Id": "universidades|112",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|115",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37914618545686, -34.6184755451986]
+    },
+    "properties": {
+      "Id": "universidades|115",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|114",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41827287738176, -34.612558551476596]
+    },
+    "properties": {
+      "Id": "universidades|114",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|113",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37090314263961, -34.61948663221047]
+    },
+    "properties": {
+      "Id": "universidades|113",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|73",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.377497931266916, -34.61565837736384]
+    },
+    "properties": {
+      "Id": "universidades|73",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|111",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38650519056829, -34.60759314655144]
+    },
+    "properties": {
+      "Id": "universidades|111",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|86",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38582489729228, -34.618428242481905]
+    },
+    "properties": {
+      "Id": "universidades|86",
+      "Nombre": "Universidad Argentina John F. Kennedy (UK)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|117",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.367343443411656, -34.62396859969305]
+    },
+    "properties": {
+      "Id": "universidades|117",
+      "Nombre": "Universidad Austral (UA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|70",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37455547355865, -34.6056532696988]
+    },
+    "properties": {
+      "Id": "universidades|70",
+      "Nombre": "Universidad CAECE (CAECE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|118",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37873547775308, -34.608944792961815]
+    },
+    "properties": {
+      "Id": "universidades|118",
+      "Nombre": "Universidad CAECE (CAECE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|119",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39699711822979, -34.60309255597988]
+    },
+    "properties": {
+      "Id": "universidades|119",
+      "Nombre": "Universidad CAECE (CAECE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|46",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.400241484530014, -34.592521284681766]
+    },
+    "properties": {
+      "Id": "universidades|46",
+      "Nombre": "Universidad Católica de La Plata (UCLP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|68",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.369549237691096, -34.61426843669814]
+    },
+    "properties": {
+      "Id": "universidades|68",
+      "Nombre": "Universidad Católica de Salta (UCLP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|121",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38913520579368, -34.597203933724344]
+    },
+    "properties": {
+      "Id": "universidades|121",
+      "Nombre": "Universidad de Belgrano (UB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|47",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.373691029213745, -34.602089113988335]
+    },
+    "properties": {
+      "Id": "universidades|47",
+      "Nombre": "Universidad de Belgrano (UB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|123",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44379034883941, -34.56425702052905]
+    },
+    "properties": {
+      "Id": "universidades|123",
+      "Nombre": "Universidad de Belgrano (UB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|120",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44103258824884, -34.5658980921342]
+    },
+    "properties": {
+      "Id": "universidades|120",
+      "Nombre": "Universidad de Belgrano (UB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|122",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.442695886245744, -34.56550451097661]
+    },
+    "properties": {
+      "Id": "universidades|122",
+      "Nombre": "Universidad de Belgrano (UB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|82",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3912304203384, -34.59284586477624]
+    },
+    "properties": {
+      "Id": "universidades|82",
+      "Nombre": "Universidad de Bologna (UNIBO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|30",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47762060069652, -34.596158233290815]
+    },
+    "properties": {
+      "Id": "universidades|30",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|39",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.51237195016058, -34.5973480648669]
+    },
+    "properties": {
+      "Id": "universidades|39",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|40",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4123698896125, -34.61223853634902]
+    },
+    "properties": {
+      "Id": "universidades|40",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|69",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36875398857823, -34.61777776105535]
+    },
+    "properties": {
+      "Id": "universidades|69",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|65",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.398260350257125, -34.59841824859314]
+    },
+    "properties": {
+      "Id": "universidades|65",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|148",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4395020881573, -34.544703492331976]
+    },
+    "properties": {
+      "Id": "universidades|148",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|51",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39955460173144, -34.59694924535014]
+    },
+    "properties": {
+      "Id": "universidades|51",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|41",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47843692328922, -34.567634058296676]
+    },
+    "properties": {
+      "Id": "universidades|41",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|31",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44284036821789, -34.54227772160853]
+    },
+    "properties": {
+      "Id": "universidades|31",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|32",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44419497148304, -34.54165358814787]
+    },
+    "properties": {
+      "Id": "universidades|32",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|146",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.408761324756505, -34.61983026606989]
+    },
+    "properties": {
+      "Id": "universidades|146",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|78",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44664709566707, -34.62826348009254]
+    },
+    "properties": {
+      "Id": "universidades|78",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|145",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.396225466153254, -34.58837476665079]
+    },
+    "properties": {
+      "Id": "universidades|145",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|50",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39806718662399, -34.59719213692]
+    },
+    "properties": {
+      "Id": "universidades|50",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|144",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3844032556482, -34.62024205982317]
+    },
+    "properties": {
+      "Id": "universidades|144",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|143",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.432340050335654, -34.605907356082064]
+    },
+    "properties": {
+      "Id": "universidades|143",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|45",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39744920081594, -34.59785092053519]
+    },
+    "properties": {
+      "Id": "universidades|45",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|93",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.410419030486324, -34.60056958755949]
+    },
+    "properties": {
+      "Id": "universidades|93",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|96",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37320399500237, -34.59974793459724]
+    },
+    "properties": {
+      "Id": "universidades|96",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|21",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.48236258288055, -34.59801807629183]
+    },
+    "properties": {
+      "Id": "universidades|21",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|20",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.48236258288055, -34.59801807629183]
+    },
+    "properties": {
+      "Id": "universidades|20",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|18",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.392372947984086, -34.583291167211]
+    },
+    "properties": {
+      "Id": "universidades|18",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|16",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37404262175299, -34.641024534227896]
+    },
+    "properties": {
+      "Id": "universidades|16",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39792889358152, -34.59982462927395]
+    },
+    "properties": {
+      "Id": "universidades|9",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|151",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46497415953918, -34.679070046443194]
+    },
+    "properties": {
+      "Id": "universidades|151",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|147",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.418625018343924, -34.60732432037213]
+    },
+    "properties": {
+      "Id": "universidades|147",
+      "Nombre": "Universidad de Buenos Aires (UBA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|124",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38467109993354, -34.59809118655968]
+    },
+    "properties": {
+      "Id": "universidades|124",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|61",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38613193591175, -34.598251668891216]
+    },
+    "properties": {
+      "Id": "universidades|61",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|62",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3871140252379, -34.598257787611445]
+    },
+    "properties": {
+      "Id": "universidades|62",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|60",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38589478988268, -34.598234400451844]
+    },
+    "properties": {
+      "Id": "universidades|60",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|63",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38760051726328, -34.598290181312]
+    },
+    "properties": {
+      "Id": "universidades|63",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|64",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3877216521385, -34.59837158860944]
+    },
+    "properties": {
+      "Id": "universidades|64",
+      "Nombre": "Universidad de Ciencias Empresariales y Sociales (UCES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|126",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.462804811542945, -34.632498657065184]
+    },
+    "properties": {
+      "Id": "universidades|126",
+      "Nombre": "Universidad de Flores (UFLO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|125",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47063906365034, -34.6287200148992]
+    },
+    "properties": {
+      "Id": "universidades|125",
+      "Nombre": "Universidad de Flores (UFLO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|127",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39841688772907, -34.60970584584619]
+    },
+    "properties": {
+      "Id": "universidades|127",
+      "Nombre": "Universidad de la Marina Mercante (UdeMM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|130",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37236348410352, -34.59856644668209]
+    },
+    "properties": {
+      "Id": "universidades|130",
+      "Nombre": "Universidad del CEMA (UCEMA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|131",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37273212899385, -34.598791836487834]
+    },
+    "properties": {
+      "Id": "universidades|131",
+      "Nombre": "Universidad del CEMA (UCEMA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|132",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.370641417777726, -34.61784196426518]
+    },
+    "properties": {
+      "Id": "universidades|132",
+      "Nombre": "Universidad del Cine (UCINE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|133",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.391316237202936, -34.60428494491914]
+    },
+    "properties": {
+      "Id": "universidades|133",
+      "Nombre": "Universidad del Museo Social Argentino (UMSA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|87",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38883281386611, -34.605386587343745]
+    },
+    "properties": {
+      "Id": "universidades|87",
+      "Nombre": "Universidad del Museo Social Argentino (UMSA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38667947640502, -34.61115897872476]
+    },
+    "properties": {
+      "Id": "universidades|2",
+      "Nombre": "Universidad del Museo Social Argentino (UMSA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|35",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37185132386886, -34.61307232278972]
+    },
+    "properties": {
+      "Id": "universidades|35",
+      "Nombre": "Universidad del Norte Santo Tomás de Aquino"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|135",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40081961400829, -34.61090754912651]
+    },
+    "properties": {
+      "Id": "universidades|135",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|49",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38620813383288, -34.59695769295387]
+    },
+    "properties": {
+      "Id": "universidades|49",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|44",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39741010610675, -34.596320781227234]
+    },
+    "properties": {
+      "Id": "universidades|44",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|92",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393292987695894, -34.60188508347873]
+    },
+    "properties": {
+      "Id": "universidades|92",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|134",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.392904243365294, -34.599032087639074]
+    },
+    "properties": {
+      "Id": "universidades|134",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|136",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38585544710187, -34.597023716249765]
+    },
+    "properties": {
+      "Id": "universidades|136",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|95",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393575545068025, -34.60087709883648]
+    },
+    "properties": {
+      "Id": "universidades|95",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|91",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39251202062669, -34.60686440999392]
+    },
+    "properties": {
+      "Id": "universidades|91",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|84",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.391544239393895, -34.60010938573884]
+    },
+    "properties": {
+      "Id": "universidades|84",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|83",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39142926385152, -34.60117405595793]
+    },
+    "properties": {
+      "Id": "universidades|83",
+      "Nombre": "Universidad del Salvador (USAL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|58",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.454479552931865, -34.61370700454072]
+    },
+    "properties": {
+      "Id": "universidades|58",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|22",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.485955054902846, -34.57451979542834]
+    },
+    "properties": {
+      "Id": "universidades|22",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|25",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.377577130466335, -34.607062230198785]
+    },
+    "properties": {
+      "Id": "universidades|25",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.392267961694664, -34.60605288226945]
+    },
+    "properties": {
+      "Id": "universidades|5",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|85",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3861918656664, -34.61159041345217]
+    },
+    "properties": {
+      "Id": "universidades|85",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|37",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.377991414337515, -34.60440793850441]
+    },
+    "properties": {
+      "Id": "universidades|37",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|43",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39884318384088, -34.596667127335614]
+    },
+    "properties": {
+      "Id": "universidades|43",
+      "Nombre": "Universidad de Morón (UNIMORON)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|52",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.414736558455715, -34.59500524499741]
+    },
+    "properties": {
+      "Id": "universidades|52",
+      "Nombre": "Universidad de Palermo (UP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|129",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41472330952372, -34.59467620122002]
+    },
+    "properties": {
+      "Id": "universidades|129",
+      "Nombre": "Universidad de Palermo (UP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|128",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.415841285411254, -34.59732397920401]
+    },
+    "properties": {
+      "Id": "universidades|128",
+      "Nombre": "Universidad de Palermo (UP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|42",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40706581499162, -34.59910159657594]
+    },
+    "properties": {
+      "Id": "universidades|42",
+      "Nombre": "Universidad de Palermo (UP)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|137",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39042481141058, -34.614359614341424]
+    },
+    "properties": {
+      "Id": "universidades|137",
+      "Nombre": "Universidad Favaloro (FAVALORO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39134557081484, -34.613875795300885]
+    },
+    "properties": {
+      "Id": "universidades|4",
+      "Nombre": "Universidad Favaloro (FAVALORO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39066096223908, -34.61366357389939]
+    },
+    "properties": {
+      "Id": "universidades|3",
+      "Nombre": "Universidad Favaloro (FAVALORO)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|89",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38517249341568, -34.603233378612906]
+    },
+    "properties": {
+      "Id": "universidades|89",
+      "Nombre": "Universidad Maimónides (UM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|138",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44099644244585, -34.61045169670289]
+    },
+    "properties": {
+      "Id": "universidades|138",
+      "Nombre": "Universidad Maimónides (UM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|139",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38773519775891, -34.607181725515204]
+    },
+    "properties": {
+      "Id": "universidades|139",
+      "Nombre": "Universidad Nacional de General San Martín (UNGSM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|80",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44076085812241, -34.55116004842455]
+    },
+    "properties": {
+      "Id": "universidades|80",
+      "Nombre": "Universidad Nacional de General San Martín (UNGSM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|12",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.377380550562336, -34.608852793184056]
+    },
+    "properties": {
+      "Id": "universidades|12",
+      "Nombre": "Universidad Nacional de la Matanza (UNLM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|38",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41174896734599, -34.583134494304545]
+    },
+    "properties": {
+      "Id": "universidades|38",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|106",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.422714398147825, -34.599120794504515]
+    },
+    "properties": {
+      "Id": "universidades|106",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|72",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37223681920598, -34.62786502866529]
+    },
+    "properties": {
+      "Id": "universidades|72",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|153",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41299258759125, -34.6148870467734]
+    },
+    "properties": {
+      "Id": "universidades|153",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|76",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39967221773814, -34.59485323081721]
+    },
+    "properties": {
+      "Id": "universidades|76",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|10",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40182393655487, -34.59921302182663]
+    },
+    "properties": {
+      "Id": "universidades|10",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|15",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.369189155390316, -34.636540626233455]
+    },
+    "properties": {
+      "Id": "universidades|15",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|24",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39302593932099, -34.60790544991873]
+    },
+    "properties": {
+      "Id": "universidades|24",
+      "Nombre": "Universidad Nacional de las Artes (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|152",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.355676656803176, -34.629603643459795]
+    },
+    "properties": {
+      "Id": "universidades|152",
+      "Nombre": "Universidad Nacional de las Artes - Sede Multimediales (UNA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|36",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40640122084605, -34.600078263313385]
+    },
+    "properties": {
+      "Id": "universidades|36",
+      "Nombre": "Universidad Nacional de Luján (UNLU)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|81",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3998591868581, -34.60981916795166]
+    },
+    "properties": {
+      "Id": "universidades|81",
+      "Nombre": "Universidad Nacional de Quilmes (UNQUI)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|140",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39037827898351, -34.5896186983859]
+    },
+    "properties": {
+      "Id": "universidades|140",
+      "Nombre": "Universidad Notarial Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|54",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42018968552598, -34.59878967319355]
+    },
+    "properties": {
+      "Id": "universidades|54",
+      "Nombre": "Universidad Tecnológica Nacional (UTN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|90",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.466958944637454, -34.58406397905906]
+    },
+    "properties": {
+      "Id": "universidades|90",
+      "Nombre": "Universidad Tecnológica Nacional (UTN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|88",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37278913788458, -34.6044728271877]
+    },
+    "properties": {
+      "Id": "universidades|88",
+      "Nombre": "Universidad Tecnológica Nacional (UTN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|149",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.468116884661185, -34.65975945492541]
+    },
+    "properties": {
+      "Id": "universidades|149",
+      "Nombre": "Universidad Tecnológica Nacional - Campus Mozart (UTN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|150",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42086694377013, -34.61285303907371]
+    },
+    "properties": {
+      "Id": "universidades|150",
+      "Nombre": "Universidad Tecnológica Nacional - Escuela de Posgrado (UTN)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|142",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.447544855971444, -34.5481602171791]
+    },
+    "properties": {
+      "Id": "universidades|142",
+      "Nombre": "Universidad Torcuato Di Tella (UTDT)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "universidades|141",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44608361203775, -34.554696212319044]
+    },
+    "properties": {
+      "Id": "universidades|141",
+      "Nombre": "Universidad Torcuato Di Tella (UTDT)"
+    }
+  }
+]

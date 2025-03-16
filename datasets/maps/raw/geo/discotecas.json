@@ -1,0 +1,1118 @@
+[
+  {
+    "type": "Feature",
+    "id": "discotecas|83",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.423559634092356, -34.59868926244165]
+    },
+    "properties": {
+      "Id": "discotecas|83",
+      "Nombre": "Amerika"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|86",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39811802832086, -34.601095347466156]
+    },
+    "properties": {
+      "Id": "discotecas|86",
+      "Nombre": "Angelïs Disco"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47166105182825, -34.63114648591976]
+    },
+    "properties": {
+      "Id": "discotecas|1",
+      "Nombre": "Asbury Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|82",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.364331893569236, -34.60596507536948]
+    },
+    "properties": {
+      "Id": "discotecas|82",
+      "Nombre": "Asia de Cuba"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|81",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41239752625046, -34.60418657890664]
+    },
+    "properties": {
+      "Id": "discotecas|81",
+      "Nombre": "Azúcar"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|80",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4563032953789, -34.562677097686795]
+    },
+    "properties": {
+      "Id": "discotecas|80",
+      "Nombre": "Azúcar Belgrano"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37174661159016, -34.60195100759793]
+    },
+    "properties": {
+      "Id": "discotecas|2",
+      "Nombre": "Bahrein"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|79",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.503808139938165, -34.56425281443514]
+    },
+    "properties": {
+      "Id": "discotecas|79",
+      "Nombre": "Bella Roma"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37967646034114, -34.610694807382096]
+    },
+    "properties": {
+      "Id": "discotecas|3",
+      "Nombre": "Big One"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|90",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.389350243741255, -34.58777575761142]
+    },
+    "properties": {
+      "Id": "discotecas|90",
+      "Nombre": "Black Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38189674636122, -34.62906091194275]
+    },
+    "properties": {
+      "Id": "discotecas|4",
+      "Nombre": "Bronco"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|78",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43001916445464, -34.58847521154021]
+    },
+    "properties": {
+      "Id": "discotecas|78",
+      "Nombre": "Brujas"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|87",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39808602448448, -34.569158253666565]
+    },
+    "properties": {
+      "Id": "discotecas|87",
+      "Nombre": "Caix"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|77",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39374662077338, -34.605026389109504]
+    },
+    "properties": {
+      "Id": "discotecas|77",
+      "Nombre": "Castelbamba"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|76",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37990431404551, -34.59732318970455]
+    },
+    "properties": {
+      "Id": "discotecas|76",
+      "Nombre": "Cattos"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|75",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.50193871208012, -34.58603221121927]
+    },
+    "properties": {
+      "Id": "discotecas|75",
+      "Nombre": "City Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|74",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39459148915985, -34.589075650708146]
+    },
+    "properties": {
+      "Id": "discotecas|74",
+      "Nombre": "Cloche"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|73",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44778379961529, -34.54702366467783]
+    },
+    "properties": {
+      "Id": "discotecas|73",
+      "Nombre": "Club 74"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|72",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41628924332481, -34.58651269613046]
+    },
+    "properties": {
+      "Id": "discotecas|72",
+      "Nombre": "Club Aráoz"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.378937614086524, -34.608308236698484]
+    },
+    "properties": {
+      "Id": "discotecas|5",
+      "Nombre": "Cocoliche"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.391975787959005, -34.59610935853315]
+    },
+    "properties": {
+      "Id": "discotecas|6",
+      "Nombre": "Contramano"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|71",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42281203766459, -34.57153346520174]
+    },
+    "properties": {
+      "Id": "discotecas|71",
+      "Nombre": "Crobar"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|27",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36331116702256, -34.62296209939288]
+    },
+    "properties": {
+      "Id": "discotecas|27",
+      "Nombre": "Dorsia (Ex-White)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|70",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4117254782765, -34.60383420992773]
+    },
+    "properties": {
+      "Id": "discotecas|70",
+      "Nombre": "El Fogon"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|69",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41494163474638, -34.60402152995279]
+    },
+    "properties": {
+      "Id": "discotecas|69",
+      "Nombre": "El Picaflor"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|68",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.450837996668874, -34.58013538801112]
+    },
+    "properties": {
+      "Id": "discotecas|68",
+      "Nombre": "El Teatro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|67",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37294913515024, -34.59762693850667]
+    },
+    "properties": {
+      "Id": "discotecas|67",
+      "Nombre": "El Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|66",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43614797750097, -34.586122609479446]
+    },
+    "properties": {
+      "Id": "discotecas|66",
+      "Nombre": "Esperanto"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|65",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47023741925036, -34.63075991297075]
+    },
+    "properties": {
+      "Id": "discotecas|65",
+      "Nombre": "Evelyn"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|7",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41534983407527, -34.61072317579109]
+    },
+    "properties": {
+      "Id": "discotecas|7",
+      "Nombre": "Fantástico"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.396123766507145, -34.58893883752237]
+    },
+    "properties": {
+      "Id": "discotecas|8",
+      "Nombre": "Gallery"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|64",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40954620470205, -34.59700553743069]
+    },
+    "properties": {
+      "Id": "discotecas|64",
+      "Nombre": "Glam"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37850619255567, -34.596003187927735]
+    },
+    "properties": {
+      "Id": "discotecas|9",
+      "Nombre": "Golden"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|63",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37604738665633, -34.598836464255726]
+    },
+    "properties": {
+      "Id": "discotecas|63",
+      "Nombre": "Gong"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|62",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39326048814201, -34.58544165804787]
+    },
+    "properties": {
+      "Id": "discotecas|62",
+      "Nombre": "Hard Rock Café"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|61",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43958048525866, -34.586454882998346]
+    },
+    "properties": {
+      "Id": "discotecas|61",
+      "Nombre": "Inc Buenos Aires (ex-X4 Club)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|60",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43958048525866, -34.586454882998346]
+    },
+    "properties": {
+      "Id": "discotecas|60",
+      "Nombre": "Ink Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|59",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.471379553030125, -34.631292052335986]
+    },
+    "properties": {
+      "Id": "discotecas|59",
+      "Nombre": "Ivanoff"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|91",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42872063830804, -34.55011195591985]
+    },
+    "properties": {
+      "Id": "discotecas|91",
+      "Nombre": "Jet Lounge"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|10",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43332771889286, -34.58643170741373]
+    },
+    "properties": {
+      "Id": "discotecas|10",
+      "Nombre": "Kika"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|11",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.430120185217596, -34.5769055448872]
+    },
+    "properties": {
+      "Id": "discotecas|11",
+      "Nombre": "Kimia"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|12",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41626192593556, -34.64477331937165]
+    },
+    "properties": {
+      "Id": "discotecas|12",
+      "Nombre": "Kory Megadisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|58",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46155161199448, -34.5782157760808]
+    },
+    "properties": {
+      "Id": "discotecas|58",
+      "Nombre": "La City"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|57",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41029950986908, -34.55837137751101]
+    },
+    "properties": {
+      "Id": "discotecas|57",
+      "Nombre": "La Diosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|56",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39015372273671, -34.6055318186032]
+    },
+    "properties": {
+      "Id": "discotecas|56",
+      "Nombre": "La France"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|55",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36747545422467, -34.60000520675684]
+    },
+    "properties": {
+      "Id": "discotecas|55",
+      "Nombre": "La Madeleine"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|92",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37768317448224, -34.60469225762122]
+    },
+    "properties": {
+      "Id": "discotecas|92",
+      "Nombre": "La Reina"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|14",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40896643604329, -34.60961206109272]
+    },
+    "properties": {
+      "Id": "discotecas|14",
+      "Nombre": "Latino 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|13",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37061333669647, -34.612667103898445]
+    },
+    "properties": {
+      "Id": "discotecas|13",
+      "Nombre": "La Ventana"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|84",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393720718647025, -34.60936642132727]
+    },
+    "properties": {
+      "Id": "discotecas|84",
+      "Nombre": "Le Click"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|15",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.50177668289558, -34.594996029802374]
+    },
+    "properties": {
+      "Id": "discotecas|15",
+      "Nombre": "Le Prive"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|16",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393629647278004, -34.5889112081286]
+    },
+    "properties": {
+      "Id": "discotecas|16",
+      "Nombre": "Locos x El Futbol"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|54",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39130698085845, -34.62150493753048]
+    },
+    "properties": {
+      "Id": "discotecas|54",
+      "Nombre": "Lo de Celia"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|53",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37344464095974, -34.60207273703896]
+    },
+    "properties": {
+      "Id": "discotecas|53",
+      "Nombre": "Madahoïs"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|52",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.51799904677218, -34.63900144055939]
+    },
+    "properties": {
+      "Id": "discotecas|52",
+      "Nombre": "Mágico Boliviano"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|51",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.391179220981016, -34.60560219070273]
+    },
+    "properties": {
+      "Id": "discotecas|51",
+      "Nombre": "Maluco Beleza"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|50",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38273939159885, -34.628161748272035]
+    },
+    "properties": {
+      "Id": "discotecas|50",
+      "Nombre": "Mbucuruya"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|88",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.401724105097436, -34.5667446077809]
+    },
+    "properties": {
+      "Id": "discotecas|88",
+      "Nombre": "Mint"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|49",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37031661333873, -34.61579932785114]
+    },
+    "properties": {
+      "Id": "discotecas|49",
+      "Nombre": "Moliere"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|93",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39258519068758, -34.61571175877135]
+    },
+    "properties": {
+      "Id": "discotecas|93",
+      "Nombre": "Monte Carlo"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|17",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40192416545186, -34.594643601622394]
+    },
+    "properties": {
+      "Id": "discotecas|17",
+      "Nombre": "Mundo Latino"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|48",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.374677802227616, -34.61419142368113]
+    },
+    "properties": {
+      "Id": "discotecas|48",
+      "Nombre": "Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|47",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.423240874203614, -34.57965324861405]
+    },
+    "properties": {
+      "Id": "discotecas|47",
+      "Nombre": "New Metrópolis"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|46",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39267243644062, -34.58891490371233]
+    },
+    "properties": {
+      "Id": "discotecas|46",
+      "Nombre": "New Port"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|45",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38844566013961, -34.58962186971406]
+    },
+    "properties": {
+      "Id": "discotecas|45",
+      "Nombre": "New Shampoo Bs. As"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|44",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43873127318888, -34.58724084243308]
+    },
+    "properties": {
+      "Id": "discotecas|44",
+      "Nombre": "Niceto Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|89",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42839497519492, -34.550273256786625]
+    },
+    "properties": {
+      "Id": "discotecas|89",
+      "Nombre": "Pachá"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|43",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39464137281354, -34.58837459505417]
+    },
+    "properties": {
+      "Id": "discotecas|43",
+      "Nombre": "Pagana"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|42",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42145028738344, -34.582354815348864]
+    },
+    "properties": {
+      "Id": "discotecas|42",
+      "Nombre": "Palermo Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|41",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.469872430525854, -34.629935780761336]
+    },
+    "properties": {
+      "Id": "discotecas|41",
+      "Nombre": "Penélope"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|40",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40514142349559, -34.60875177011739]
+    },
+    "properties": {
+      "Id": "discotecas|40",
+      "Nombre": "PopularIsimo"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|18",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.370737259023095, -34.61436235601051]
+    },
+    "properties": {
+      "Id": "discotecas|18",
+      "Nombre": "Por Vos Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|19",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38309372017274, -34.629106447960154]
+    },
+    "properties": {
+      "Id": "discotecas|19",
+      "Nombre": "Radio Studio Dance"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|39",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37982327148326, -34.60902301109978]
+    },
+    "properties": {
+      "Id": "discotecas|39",
+      "Nombre": "Requiem Gothic"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|38",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47475546509868, -34.632229979351315]
+    },
+    "properties": {
+      "Id": "discotecas|38",
+      "Nombre": "Retro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|37",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.374723114855925, -34.612001579570645]
+    },
+    "properties": {
+      "Id": "discotecas|37",
+      "Nombre": "Rey Castro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|20",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.450837996668874, -34.58013538801112]
+    },
+    "properties": {
+      "Id": "discotecas|20",
+      "Nombre": "Roxy Club (ex El Teat"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|36",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43546090705159, -34.55312306088394]
+    },
+    "properties": {
+      "Id": "discotecas|36",
+      "Nombre": "Rumi"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|21",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39267243644062, -34.58891490371233]
+    },
+    "properties": {
+      "Id": "discotecas|21",
+      "Nombre": "Sahara Continent"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|22",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.457034147886574, -34.6263549331944]
+    },
+    "properties": {
+      "Id": "discotecas|22",
+      "Nombre": "Seu Tango"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|35",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42749079084412, -34.62415176240886]
+    },
+    "properties": {
+      "Id": "discotecas|35",
+      "Nombre": "Seven"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|23",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47345624343417, -34.54174654815007]
+    },
+    "properties": {
+      "Id": "discotecas|23",
+      "Nombre": "Six (ex Mix)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|24",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39552993784013, -34.5874161381905]
+    },
+    "properties": {
+      "Id": "discotecas|24",
+      "Nombre": "Sodoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|34",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39146846909032, -34.605627096119505]
+    },
+    "properties": {
+      "Id": "discotecas|34",
+      "Nombre": "Sudaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|33",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47227664954841, -34.631799200755154]
+    },
+    "properties": {
+      "Id": "discotecas|33",
+      "Nombre": "Tabasco"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|32",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.470164203560905, -34.630957882736325]
+    },
+    "properties": {
+      "Id": "discotecas|32",
+      "Nombre": "The End"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|25",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41211125260355, -34.60518798331719]
+    },
+    "properties": {
+      "Id": "discotecas|25",
+      "Nombre": "The Flower Canela"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|31",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39213814494332, -34.59462478922903]
+    },
+    "properties": {
+      "Id": "discotecas|31",
+      "Nombre": "The Shamrock"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|85",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40744544062108, -34.59385904308658]
+    },
+    "properties": {
+      "Id": "discotecas|85",
+      "Nombre": "Tiro loco"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|30",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.412230099259176, -34.60271240450656]
+    },
+    "properties": {
+      "Id": "discotecas|30",
+      "Nombre": "Uni Club"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|29",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43825950624664, -34.56497178558946]
+    },
+    "properties": {
+      "Id": "discotecas|29",
+      "Nombre": "Velvet-Frere"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|28",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44843572154489, -34.54692560487574]
+    },
+    "properties": {
+      "Id": "discotecas|28",
+      "Nombre": "Western"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "discotecas|26",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.50792508077161, -34.59290807061691]
+    },
+    "properties": {
+      "Id": "discotecas|26",
+      "Nombre": "Xel-Ha"
+    }
+  }
+]

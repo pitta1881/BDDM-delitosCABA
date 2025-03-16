@@ -1,0 +1,535 @@
+[
+  {
+    "type": "Feature",
+    "id": "comisarias|1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.373248855781746, -34.601905333460095]
+    },
+    "properties": {
+      "Id": "comisarias|1",
+      "Nombre": "Comisaría Vecinal 1-D",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42492801152497, -34.62863984277676]
+    },
+    "properties": {
+      "Id": "comisarias|2",
+      "Nombre": "Comisaría Vecinal 5-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4395027325712, -34.608977891300256]
+    },
+    "properties": {
+      "Id": "comisarias|3",
+      "Nombre": "Comisaría Vecinal 6-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44808802237926, -34.626778869540274]
+    },
+    "properties": {
+      "Id": "comisarias|4",
+      "Nombre": "Comisaría Vecinal 7-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39075192610666, -34.62258553085462]
+    },
+    "properties": {
+      "Id": "comisarias|9",
+      "Nombre": "Comisaría Vecinal 1-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|10",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40672208026212, -34.59407802299338]
+    },
+    "properties": {
+      "Id": "comisarias|10",
+      "Nombre": "Comisaría Vecinal 2-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|12",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40322933391193, -34.626030986270095]
+    },
+    "properties": {
+      "Id": "comisarias|12",
+      "Nombre": "Comisaría Vecinal 3-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|13",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41592974865814, -34.587731787782175]
+    },
+    "properties": {
+      "Id": "comisarias|13",
+      "Nombre": "Comisaría Vecinal 14-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|14",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.365428, -34.623688]
+    },
+    "properties": {
+      "Id": "comisarias|14",
+      "Nombre": "Comisaría Vecinal 1-E",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|15",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.360592030123854, -34.63416756753519]
+    },
+    "properties": {
+      "Id": "comisarias|15",
+      "Nombre": "Comisaría Vecinal 4-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|16",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37491240512654, -34.63806106254997]
+    },
+    "properties": {
+      "Id": "comisarias|16",
+      "Nombre": "Comisaría Vecinal 4-E",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|17",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44108560356734, -34.59932010840561]
+    },
+    "properties": {
+      "Id": "comisarias|17",
+      "Nombre": "Comisaría Vecinal 15-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|18",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.388899361885116, -34.601938971803435]
+    },
+    "properties": {
+      "Id": "comisarias|18",
+      "Nombre": "Comisaría Vecinal 1-A (edificio anexo II)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|19",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37473104875953, -34.64728218019691]
+    },
+    "properties": {
+      "Id": "comisarias|19",
+      "Nombre": "Comisaría Vecinal 4-D",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|20",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43895737810275, -34.57330869895585]
+    },
+    "properties": {
+      "Id": "comisarias|20",
+      "Nombre": "Comisaría Vecinal 14-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|21",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45628575628293, -34.56014528528174]
+    },
+    "properties": {
+      "Id": "comisarias|21",
+      "Nombre": "Comisaría Vecinal 13-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|22",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41715799236092, -34.6447931361881]
+    },
+    "properties": {
+      "Id": "comisarias|22",
+      "Nombre": "Comisaría Vecinal 4-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|23",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46332733598092, -34.5513762552384]
+    },
+    "properties": {
+      "Id": "comisarias|23",
+      "Nombre": "Comisaría Vecinal 13-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|24",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45426712298147, -34.67735534617034]
+    },
+    "properties": {
+      "Id": "comisarias|24",
+      "Nombre": "Comisaría Vecinal 8-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|27",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.49005679563842, -34.578689729398015]
+    },
+    "properties": {
+      "Id": "comisarias|27",
+      "Nombre": "Comisaría Vecinal 12-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|28",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37858130354147, -34.617160446937426]
+    },
+    "properties": {
+      "Id": "comisarias|28",
+      "Nombre": "Comisaría Vecinal 1-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|29",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47633621937053, -34.64146107167716]
+    },
+    "properties": {
+      "Id": "comisarias|29",
+      "Nombre": "Comisaría Vecinal 9-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|31",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.501163974792256, -34.66199234587148]
+    },
+    "properties": {
+      "Id": "comisarias|31",
+      "Nombre": "Comisaría Vecinal 9-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|32",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.483778798577504, -34.62880577190448]
+    },
+    "properties": {
+      "Id": "comisarias|32",
+      "Nombre": "Comisaría Vecinal 10-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|33",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.52403643681642, -34.629535392018326]
+    },
+    "properties": {
+      "Id": "comisarias|33",
+      "Nombre": "Comisaría Vecinal 10-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|34",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.51560404631522, -34.59831458730551]
+    },
+    "properties": {
+      "Id": "comisarias|34",
+      "Nombre": "Comisaría Vecinal 11-B",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|36",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.47488815810125, -34.67903291493464]
+    },
+    "properties": {
+      "Id": "comisarias|36",
+      "Nombre": "Comisaría Vecinal 8-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|37",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.48252524827414, -34.56514562924219]
+    },
+    "properties": {
+      "Id": "comisarias|37",
+      "Nombre": "Comisaría Vecinal 12-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|39",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46482110249303, -34.61611299874863]
+    },
+    "properties": {
+      "Id": "comisarias|39",
+      "Nombre": "Comisaría Vecinal 7-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|40",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.444069522981366, -34.55482222432007]
+    },
+    "properties": {
+      "Id": "comisarias|40",
+      "Nombre": "Comisaría Vecinal 13-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|41",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46897879667804, -34.683222893514746]
+    },
+    "properties": {
+      "Id": "comisarias|41",
+      "Nombre": "Comisaría Vecinal 8-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|44",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40401347807058, -34.6032104546749]
+    },
+    "properties": {
+      "Id": "comisarias|44",
+      "Nombre": "Comisaría Vecinal 3-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|45",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.40928216463774, -34.61705659478636]
+    },
+    "properties": {
+      "Id": "comisarias|45",
+      "Nombre": "Comisaría Vecinal 3-A (edificio anexo I)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|53",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.451428, -34.590471]
+    },
+    "properties": {
+      "Id": "comisarias|53",
+      "Nombre": "Comisaría Vecinal 15-C",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|55",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42759541030675, -34.59255129558879]
+    },
+    "properties": {
+      "Id": "comisarias|55",
+      "Nombre": "Comisaria Vecinal 14-A (edificio anexo I)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|56",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38001241164997, -34.59461884909618]
+    },
+    "properties": {
+      "Id": "comisarias|56",
+      "Nombre": "Comisaria Vecinal 1-A",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|58",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.431746362071706, -34.66039955105468]
+    },
+    "properties": {
+      "Id": "comisarias|58",
+      "Nombre": "Comisaría Vecinal 8-B (edificio anexo I)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|60",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.369593, -34.584404]
+    },
+    "properties": {
+      "Id": "comisarias|60",
+      "Nombre": "Comisaría Vecinal 1-A (edificio anexo I)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|61",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.499378, -34.589732]
+    },
+    "properties": {
+      "Id": "comisarias|61",
+      "Nombre": "Comisaría Vecinal 12-B (edificio anexo I)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|62",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.420122, -34.582553]
+    },
+    "properties": {
+      "Id": "comisarias|62",
+      "Nombre": "Comisaría Vecinal 14-A (edificio anexo II)",
+      "Tipo": "Vecinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|63",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.394802, -34.603488]
+    },
+    "properties": {
+      "Id": "comisarias|63",
+      "Nombre": "Comisaría Vecinal 3-C (anexo I)",
+      "Tipo": "Vecinal"
+    }
+  }
+]

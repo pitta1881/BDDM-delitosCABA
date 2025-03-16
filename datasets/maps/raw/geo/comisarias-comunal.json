@@ -1,0 +1,28 @@
+[
+  {
+    "type": "Feature",
+    "id": "comisarias|51",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.455269, -34.673206]
+    },
+    "properties": {
+      "Id": "comisarias|51",
+      "Nombre": "Comisaria Comunal 8",
+      "Tipo": "Comunal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "comisarias|59",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.372958, -34.603414]
+    },
+    "properties": {
+      "Id": "comisarias|59",
+      "Nombre": "Comisaría Comunal 1 Norte",
+      "Tipo": "Comunal"
+    }
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|193",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42887228565238, -34.616358357691865]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|193",
+      "Nombre": "CINEMARK CABALLITO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|374",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.437305844459104, -34.61858430492672]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|374",
+      "Nombre": "CINE VILLAGE CABALLITO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|439",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46246949858194, -34.62936811906691]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|439",
+      "Nombre": "ATLAS FLORES",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|770",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.48726962728304, -34.54539438966463]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|770",
+      "Nombre": "SHOWCASE NORCENTER",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|864",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41140557328767, -34.60294011774995]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|864",
+      "Nombre": "HOYTS ABASTO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|997",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.396104136330884, -34.60459661964568]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|997",
+      "Nombre": "CINE COSMOS",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "UNIVERSIDAD DE BUENOS AIRES.",
+      "Sector": "PUBLICO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1460",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4102712028052, -34.586685381547035]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1460",
+      "Nombre": "CINEMARK PALERMO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1475",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.404121118931094, -34.57564422190372]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1475",
+      "Nombre": "PASEO ALCORTA",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1507",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.517833233580106, -34.61118063779755]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1507",
+      "Nombre": "CINEMA DEVOTO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1535",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36530838265349, -34.62155894381347]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1535",
+      "Nombre": "CINEMARK PUERTO MADERO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1591",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.382969677869895, -34.611974127919886]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1591",
+      "Nombre": "CINAIN (CINEMATECA Y ARCHIVO DE LA IMAGEN NACIONAL)",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "INCAA - SECRETARIA DE CULTURA",
+      "Sector": "PUBLICO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1864",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38697503136473, -34.60410731211447]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1864",
+      "Nombre": "CINE LORCA",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1865",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38864249756079, -34.60424090335643]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1865",
+      "Nombre": "LEOPOLDO LUGONES",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "COMPLEJO TEATRAL DE BUENOS AIRES",
+      "Sector": "PUBLICO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|1871",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3895899127305, -34.60903634891059]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|1871",
+      "Nombre": "CINE AR GAUMONT",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "INCAA",
+      "Sector": "PUBLICO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2066",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.377785195227204, -34.60240630003711]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2066",
+      "Nombre": "MONUMENTAL",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2169",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46155575951594, -34.55675366400198]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2169",
+      "Nombre": "CINEMA CITY GENERAL PAZ",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2171",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.46177106639107, -34.55606061693489]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2171",
+      "Nombre": "ARTE MULTIPLEX BELGRANO",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2220",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45649873047329, -34.5605067213383]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2220",
+      "Nombre": "MULTIPLEX",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2236",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.452905148555004, -34.5540528753039]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2236",
+      "Nombre": "SHOWCASE",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2291",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39362912169997, -34.58892213557388]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2291",
+      "Nombre": "CINE VILLAGE RECOLETA",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2476",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.394121755807376, -34.58261975032361]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2476",
+      "Nombre": "CINE AMIGOS DE LAS BELLAS ARTES",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "ASOCIACION AMIGOS DEL MUSEO DE LAS BELLAS ARTES",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "dependencias_culturales|2651",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38340618124366, -34.588101783268144]
+    },
+    "properties": {
+      "Id": "dependencias_culturales|2651",
+      "Nombre": "ATLAS CINE PATIO BULLRICH",
+      "Actividad": "SALA DE CINE",
+      "Dependencia": "None",
+      "Sector": "PRIVADO",
+      "Subcategoria": "None"
+    }
+  }
+]

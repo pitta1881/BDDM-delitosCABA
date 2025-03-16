@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|25",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41093895144988, -34.603901751218764]
+    },
+    "properties": {
+      "Id": "centros_comerciales|25",
+      "Nombre": "Abasto Shopping"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|7",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4037707267679, -34.57520359740358]
+    },
+    "properties": {
+      "Id": "centros_comerciales|7",
+      "Nombre": "Alcorta Shopping"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|24",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.41078693729227, -34.588393849318294]
+    },
+    "properties": {
+      "Id": "centros_comerciales|24",
+      "Nombre": "Alto Palermo"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|37",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44444987135533, -34.583170747943754]
+    },
+    "properties": {
+      "Id": "centros_comerciales|37",
+      "Nombre": "Antigüedades Colegiales"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|36",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37180364840753, -34.59714300071705]
+    },
+    "properties": {
+      "Id": "centros_comerciales|36",
+      "Nombre": "Art. de Piel y Cueros Retiro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|41",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36314466227985, -34.63938141357803]
+    },
+    "properties": {
+      "Id": "centros_comerciales|41",
+      "Nombre": "Artículos Regionales La Boca"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|47",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.374972964563085, -34.60827576392178]
+    },
+    "properties": {
+      "Id": "centros_comerciales|47",
+      "Nombre": "Artículos Regionales Montserrat"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|35",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45166553571093, -34.5562196166151]
+    },
+    "properties": {
+      "Id": "centros_comerciales|35",
+      "Nombre": "Barrio Chino"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|23",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.402173163174446, -34.62377925699483]
+    },
+    "properties": {
+      "Id": "centros_comerciales|23",
+      "Nombre": "Bazar San Cristóbal"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|22",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393227525804726, -34.58575713765565]
+    },
+    "properties": {
+      "Id": "centros_comerciales|22",
+      "Nombre": "Buenos Aires Design"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|21",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43803594956815, -34.61909047458194]
+    },
+    "properties": {
+      "Id": "centros_comerciales|21",
+      "Nombre": "Caballito Shopping Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|20",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37356271392629, -34.60885102857069]
+    },
+    "properties": {
+      "Id": "centros_comerciales|20",
+      "Nombre": "Cabildo"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|19",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45208949125763, -34.58737871154932]
+    },
+    "properties": {
+      "Id": "centros_comerciales|19",
+      "Nombre": "Camperas y Abrigos Chacarita"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|18",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.49433887577357, -34.60201036479272]
+    },
+    "properties": {
+      "Id": "centros_comerciales|18",
+      "Nombre": "Del Parque Shopping"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|17",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.51801948841238, -34.611729821400985]
+    },
+    "properties": {
+      "Id": "centros_comerciales|17",
+      "Nombre": "Devoto Shopping"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|49",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.42879879024694, -34.581130868129065]
+    },
+    "properties": {
+      "Id": "centros_comerciales|49",
+      "Nombre": "Distrito Arcos "
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|48",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.488376620028156, -34.54556431538159]
+    },
+    "properties": {
+      "Id": "centros_comerciales|48",
+      "Nombre": "Dot Baires Shopping"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|16",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.425339732206126, -34.574925908211654]
+    },
+    "properties": {
+      "Id": "centros_comerciales|16",
+      "Nombre": "Easy Home Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43756986902379, -34.56775613018524]
+    },
+    "properties": {
+      "Id": "centros_comerciales|3",
+      "Nombre": "El Solar de la Abadía"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|42",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39046619621856, -34.60984624134976]
+    },
+    "properties": {
+      "Id": "centros_comerciales|42",
+      "Nombre": "Feria Congreso"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|50",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39112519361942, -34.58575625193144]
+    },
+    "properties": {
+      "Id": "centros_comerciales|50",
+      "Nombre": "Feria de Artesanos de Plaza Francia"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|45",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.355621499187556, -34.618653122822074]
+    },
+    "properties": {
+      "Id": "centros_comerciales|45",
+      "Nombre": "Feria de emprendedores Costanera Sur"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|43",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.371925267207864, -34.61002142955251]
+    },
+    "properties": {
+      "Id": "centros_comerciales|43",
+      "Nombre": "Feria de las Artes"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|13",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37234137267146, -34.604605706758726]
+    },
+    "properties": {
+      "Id": "centros_comerciales|13",
+      "Nombre": "Feria del Convento Grande de San Ramón Nonato"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|12",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37476574381637, -34.61127859237034]
+    },
+    "properties": {
+      "Id": "centros_comerciales|12",
+      "Nombre": "Feria del Mercado de las Luces."
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|40",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.434553199357325, -34.6187318813023]
+    },
+    "properties": {
+      "Id": "centros_comerciales|40",
+      "Nombre": "Feria del Parque Rivadavia"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|39",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43399053511853, -34.61759246988093]
+    },
+    "properties": {
+      "Id": "centros_comerciales|39",
+      "Nombre": "Feria del Parque Rivadavia Fenyma"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|15",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.500165650852466, -34.662559959677424]
+    },
+    "properties": {
+      "Id": "centros_comerciales|15",
+      "Nombre": "Feria de Mataderos"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|14",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.383801628232646, -34.602629307418745]
+    },
+    "properties": {
+      "Id": "centros_comerciales|14",
+      "Nombre": "Feria de Plaza Lavalle"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|44",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36869607868193, -34.60337012144685]
+    },
+    "properties": {
+      "Id": "centros_comerciales|44",
+      "Nombre": "Feria de Plazoleta Tango"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|34",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.371422013299544, -34.620671837322135]
+    },
+    "properties": {
+      "Id": "centros_comerciales|34",
+      "Nombre": "Feria de San Pedro Telmo"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|33",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39172202223126, -34.58475638394448]
+    },
+    "properties": {
+      "Id": "centros_comerciales|33",
+      "Nombre": "Feria Intendente Alvear"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|11",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.43612474915312, -34.60877924034965]
+    },
+    "properties": {
+      "Id": "centros_comerciales|11",
+      "Nombre": "Feria Parque Centenario"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|10",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37109754283693, -34.62536826526629]
+    },
+    "properties": {
+      "Id": "centros_comerciales|10",
+      "Nombre": "Feria Parque Lezama"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|32",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39718882709675, -34.59972957525149]
+    },
+    "properties": {
+      "Id": "centros_comerciales|32",
+      "Nombre": "Feria Plaza Houssay"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|31",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.422604495043906, -34.58057966697894]
+    },
+    "properties": {
+      "Id": "centros_comerciales|31",
+      "Nombre": "Feria Plaza Italia"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|30",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.422604495043906, -34.58057966697894]
+    },
+    "properties": {
+      "Id": "centros_comerciales|30",
+      "Nombre": "Feria Plaza Italia (Libros)"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.44154468746477, -34.580039784032685]
+    },
+    "properties": {
+      "Id": "centros_comerciales|8",
+      "Nombre": "Ferias de diseño El Dorrego"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.36030258024801, -34.63898123849768]
+    },
+    "properties": {
+      "Id": "centros_comerciales|9",
+      "Nombre": "Feria Vuelta de Rocha"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|29",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37490751830315, -34.59875751099763]
+    },
+    "properties": {
+      "Id": "centros_comerciales|29",
+      "Nombre": "Galerías Pacífico"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|46",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.3757124501738, -34.59473502478924]
+    },
+    "properties": {
+      "Id": "centros_comerciales|46",
+      "Nombre": "Joyas y Relojes Retiro"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|38",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.4254533598347, -34.57489187877285]
+    },
+    "properties": {
+      "Id": "centros_comerciales|38",
+      "Nombre": "Jumbo Palermo Centro Comercial"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|28",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45902938739603, -34.6732734474271]
+    },
+    "properties": {
+      "Id": "centros_comerciales|28",
+      "Nombre": "Parque Brown"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|26",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.37572423647198, -34.608478934397475]
+    },
+    "properties": {
+      "Id": "centros_comerciales|26",
+      "Nombre": "Paseo de los Artesanos"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39022370140962, -34.60438535353773]
+    },
+    "properties": {
+      "Id": "centros_comerciales|6",
+      "Nombre": "Paseo La Plaza"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.38340529248982, -34.5881006629285]
+    },
+    "properties": {
+      "Id": "centros_comerciales|5",
+      "Nombre": "Patio Bullrich"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|27",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.45566399579386, -34.561472936802936]
+    },
+    "properties": {
+      "Id": "centros_comerciales|27",
+      "Nombre": "Plaza General Manuel Belgrano"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.5268526267595, -34.64025967123759]
+    },
+    "properties": {
+      "Id": "centros_comerciales|4",
+      "Nombre": "Plaza Liniers Shopping Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.393750328697465, -34.589036614508906]
+    },
+    "properties": {
+      "Id": "centros_comerciales|1",
+      "Nombre": "Recoleta Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "centros_comerciales|2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.39945957569157, -34.61267901898497]
+    },
+    "properties": {
+      "Id": "centros_comerciales|2",
+      "Nombre": "Spinetto Shopping Center"
+    }
+  }
+]
