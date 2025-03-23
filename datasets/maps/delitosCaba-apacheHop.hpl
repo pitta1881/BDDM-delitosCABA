@@ -13,16 +13,16 @@
     <transform_performance_capturing_delay>1000</transform_performance_capturing_delay>
     <transform_performance_capturing_size_limit>100</transform_performance_capturing_size_limit>
     <created_user>-</created_user>
-    <created_date>2025/03/16 23:04:41.489</created_date>
+    <created_date>2025/03/17 00:07:09.680</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2025/03/16 23:04:41.489</modified_date>
+    <modified_date>2025/03/17 00:07:09.680</modified_date>
   </info>
   <notepads>
   </notepads>
   <order>
     <hop>
-      <from>Estacion Ferrocarriles CSV</from>
-      <to>Select values</to>
+      <from>Add sequence</from>
+      <to>Text file output</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -36,31 +36,252 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Pubs JSON </from>
-      <to>Select values 4</to>
+      <from>Select values</from>
+      <to>Add sequence</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Split fields</from>
-      <to>Value mapper</to>
+      <from>JSON Folder</from>
+      <to>Select values 4 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Select values 5</from>
-      <to>Text file output</to>
+      <from>Select values 3</from>
+      <to>Add constants</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Select values 4</from>
+      <from>Select values 2</from>
+      <to>Add constants 3</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Select values 4 2</from>
+      <to>Replace in string</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Replace in string</from>
       <to>Split fields</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Value mapper</from>
+      <from>Split fields</from>
       <to>Select values 5</to>
       <enabled>Y</enabled>
     </hop>
+    <hop>
+      <from>Select values 4</from>
+      <to>Add constants 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Estacion Ferrocarriles CSV</from>
+      <to>Select values 4</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Add constants 2</from>
+      <to>Select values</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Add constants</from>
+      <to>Select values</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Add constants 3</from>
+      <to>Block until transforms finish 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Select values 5</from>
+      <to>Block until transforms finish 3</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Block until transforms finish 3</from>
+      <to>Add sequence</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Block until transforms finish 2</from>
+      <to>Select values</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
+  <transform>
+    <name>Add constants</name>
+    <type>Constant</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <length>-1</length>
+        <name>type</name>
+        <nullif>Estacion Subte</nullif>
+        <precision>-1</precision>
+        <set_empty_string>N</set_empty_string>
+        <type>String</type>
+      </field>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>592</xloc>
+      <yloc>192</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Add constants 2</name>
+    <type>Constant</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <length>-1</length>
+        <name>type</name>
+        <nullif>Estacion Ferrocarril</nullif>
+        <precision>-1</precision>
+        <set_empty_string>N</set_empty_string>
+        <type>String</type>
+      </field>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>592</xloc>
+      <yloc>288</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Add constants 3</name>
+    <type>Constant</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <length>-1</length>
+        <name>type</name>
+        <nullif>Parada Colectivo</nullif>
+        <precision>-1</precision>
+        <set_empty_string>N</set_empty_string>
+        <type>String</type>
+      </field>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>592</xloc>
+      <yloc>368</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Add sequence</name>
+    <type>Sequence</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <increment_by>1</increment_by>
+    <max_value>999999999</max_value>
+    <seqname>SEQ_</seqname>
+    <start_at>1</start_at>
+    <use_counter>Y</use_counter>
+    <use_database>N</use_database>
+    <valuename>id</valuename>
+    <attributes/>
+    <GUI>
+      <xloc>992</xloc>
+      <yloc>304</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Block until transforms finish 1</name>
+    <type>BlockUntilTransformsFinish</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <transforms>
+      <transform>
+        <name>Add constants</name>
+      </transform>
+    </transforms>
+    <attributes/>
+    <GUI>
+      <xloc>752</xloc>
+      <yloc>288</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Block until transforms finish 2</name>
+    <type>BlockUntilTransformsFinish</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <transforms>
+      <transform>
+        <name>Block until transforms finish 1</name>
+      </transform>
+    </transforms>
+    <attributes/>
+    <GUI>
+      <xloc>768</xloc>
+      <yloc>368</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Block until transforms finish 3</name>
+    <type>BlockUntilTransformsFinish</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <transforms>
+      <transform>
+        <name>Block until transforms finish 2</name>
+      </transform>
+    </transforms>
+    <attributes/>
+    <GUI>
+      <xloc>976</xloc>
+      <yloc>464</yloc>
+    </GUI>
+  </transform>
   <transform>
     <name>Estacion Ferrocarriles CSV</name>
     <type>CSVInput</type>
@@ -89,24 +310,24 @@
     <fields>
       <field>
         <name>﻿long</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>lat</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
@@ -211,8 +432,8 @@
     </fields>
     <attributes/>
     <GUI>
-      <xloc>160</xloc>
-      <yloc>80</yloc>
+      <xloc>304</xloc>
+      <yloc>288</yloc>
     </GUI>
   </transform>
   <transform>
@@ -243,24 +464,24 @@
     <fields>
       <field>
         <name>﻿long</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>lat</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
@@ -299,7 +520,7 @@
     </fields>
     <attributes/>
     <GUI>
-      <xloc>160</xloc>
+      <xloc>304</xloc>
       <yloc>192</yloc>
     </GUI>
   </transform>
@@ -375,24 +596,24 @@
       </field>
       <field>
         <name>coord_X</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>coord_Y</name>
-        <type>Number</type>
-        <format>#.#</format>
+        <type>String</type>
+        <format/>
         <currency>¤</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>1</precision>
+        <length>-1</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
@@ -552,12 +773,12 @@
     </fields>
     <attributes/>
     <GUI>
-      <xloc>160</xloc>
-      <yloc>288</yloc>
+      <xloc>304</xloc>
+      <yloc>368</yloc>
     </GUI>
   </transform>
   <transform>
-    <name>Pubs JSON </name>
+    <name>JSON Folder</name>
     <type>JsonInput</type>
     <description/>
     <distribute>Y</distribute>
@@ -579,7 +800,7 @@
     <defaultPathLeafToNull>Y</defaultPathLeafToNull>
     <rownum_field/>
     <file>
-      <name>/project/raw/geo/pubs.json</name>
+      <name>/project/raw/geo/</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -693,20 +914,33 @@
       <field>
         <name>longitude</name>
         <path>$.*geometry.coordinates[0]</path>
-        <type>None</type>
+        <type>Number</type>
         <format/>
         <currency/>
         <decimal/>
         <group/>
         <length>-1</length>
-        <precision>-1</precision>
+        <precision>7</precision>
         <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>latitude</name>
-        <path>$.*geometry.coordinates[10]</path>
-        <type>None</type>
+        <path>$.*geometry.coordinates[1]</path>
+        <type>Number</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <length>-1</length>
+        <precision>7</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+      <field>
+        <name>filename</name>
+        <path>filenameCustom</path>
+        <type>String</type>
         <format/>
         <currency/>
         <decimal/>
@@ -721,7 +955,7 @@
     <IsInFields>N</IsInFields>
     <IsAFile>N</IsAFile>
     <valueField/>
-    <shortFileFieldName/>
+    <shortFileFieldName>filenameCustom</shortFileFieldName>
     <pathFieldName/>
     <hiddenFieldName/>
     <lastModificationTimeFieldName/>
@@ -731,8 +965,37 @@
     <sizeFieldName/>
     <attributes/>
     <GUI>
-      <xloc>160</xloc>
-      <yloc>400</yloc>
+      <xloc>304</xloc>
+      <yloc>464</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Replace in string</name>
+    <type>ReplaceString</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <case_sensitive>N</case_sensitive>
+        <in_stream_name>filenameCustom</in_stream_name>
+        <is_unicode>N</is_unicode>
+        <out_stream_name>type</out_stream_name>
+        <replace_string>.json</replace_string>
+        <set_empty_string>N</set_empty_string>
+        <use_regex>N</use_regex>
+        <whole_word>N</whole_word>
+      </field>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>608</xloc>
+      <yloc>464</yloc>
     </GUI>
   </transform>
   <transform>
@@ -748,281 +1011,60 @@
     </partitioning>
     <fields>
       <field>
-        <name>﻿long</name>
-        <rename>longitude</rename>
-      </field>
-      <field>
-        <name>lat</name>
-        <rename>latitude</rename>
-      </field>
-      <field>
-        <name>nombre</name>
-        <rename>name</rename>
-      </field>
-      <select_unspecified>N</select_unspecified>
-    </fields>
-    <attributes/>
-    <GUI>
-      <xloc>384</xloc>
-      <yloc>80</yloc>
-    </GUI>
-  </transform>
-  <transform>
-    <name>Select values 4</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>coordinates</name>
-      </field>
-      <field>
-        <name>Nombre</name>
-        <rename>name</rename>
-      </field>
-      <select_unspecified>N</select_unspecified>
-    </fields>
-    <attributes/>
-    <GUI>
-      <xloc>368</xloc>
-      <yloc>400</yloc>
-    </GUI>
-  </transform>
-  <transform>
-    <name>Select values 5</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>longitude_str</name>
-        <rename>longitude</rename>
-      </field>
-      <field>
-        <name>latitude_str</name>
-        <rename>latitude</rename>
-      </field>
-      <field>
         <name>name</name>
       </field>
-      <select_unspecified>N</select_unspecified>
-      <meta>
-        <name>longitude_str</name>
-        <rename>longitude</rename>
-        <type>Number</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>latitude_str</name>
-        <rename>latitude</rename>
-        <type>Number</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>name</name>
-        <rename>name</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-    </fields>
-    <attributes/>
-    <GUI>
-      <xloc>768</xloc>
-      <yloc>400</yloc>
-    </GUI>
-  </transform>
-  <transform>
-    <name>Split fields</name>
-    <type>FieldSplitter</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <delimiter>,</delimiter>
-    <fields>
-      <field>
-        <idrem>N</idrem>
-        <length>-1</length>
-        <name>longitude_str</name>
-        <precision>-1</precision>
-        <trimtype>none</trimtype>
-      </field>
-      <field>
-        <idrem>N</idrem>
-        <length>-1</length>
-        <name>latitude_str</name>
-        <precision>-1</precision>
-        <trimtype>none</trimtype>
-      </field>
-    </fields>
-    <splitfield>coordinates</splitfield>
-    <attributes/>
-    <GUI>
-      <xloc>512</xloc>
-      <yloc>400</yloc>
-    </GUI>
-  </transform>
-  <transform>
-    <name>Text file output</name>
-    <type>TextFileOutput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <schema_definition/>
-    <separator>;</separator>
-    <enclosure>"</enclosure>
-    <enclosure_forced>N</enclosure_forced>
-    <enclosure_fix_disabled>N</enclosure_fix_disabled>
-    <header>Y</header>
-    <footer>N</footer>
-    <format>DOS</format>
-    <compression>None</compression>
-    <encoding/>
-    <endedLine/>
-    <fileNameInField>N</fileNameInField>
-    <fileNameField/>
-    <create_parent_folder>Y</create_parent_folder>
-    <file>
-      <name>/project/parsed/filename.txt</name>
-      <servlet_output>N</servlet_output>
-      <do_not_open_new_file_init>Y</do_not_open_new_file_init>
-      <extention>csv</extention>
-      <append>N</append>
-      <split>N</split>
-      <haspartno>N</haspartno>
-      <add_date>N</add_date>
-      <add_time>N</add_time>
-      <SpecifyFormat>N</SpecifyFormat>
-      <date_time_format/>
-      <add_to_result_filenames>Y</add_to_result_filenames>
-      <pad>N</pad>
-      <fast_dump>N</fast_dump>
-      <splitevery/>
-    </file>
-    <fields>
       <field>
         <name>longitude</name>
-        <type>Number</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
       </field>
       <field>
         <name>latitude</name>
+      </field>
+      <field>
+        <name>type</name>
+      </field>
+      <field>
+        <name>subtype</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+      <meta>
+        <name>latitude</name>
+        <rename>latitude</rename>
         <type>Number</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>name</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
+        <length>7</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>longitude</name>
+        <rename>longitude</rename>
+        <type>Number</type>
+        <length>7</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
     </fields>
     <attributes/>
     <GUI>
-      <xloc>912</xloc>
-      <yloc>400</yloc>
-    </GUI>
-  </transform>
-  <transform>
-    <name>Value mapper</name>
-    <type>ValueMapper</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <field_to_use>longitude_str</field_to_use>
-    <fields>
-      <field>
-        <source_value>"["</source_value>
-        <target_value>""</target_value>
-      </field>
-      <field>
-        <source_value>"]"</source_value>
-        <target_value>""</target_value>
-      </field>
-    </fields>
-    <attributes/>
-    <GUI>
-      <xloc>640</xloc>
-      <yloc>400</yloc>
+      <xloc>896</xloc>
+      <yloc>304</yloc>
     </GUI>
   </transform>
   <transform>
@@ -1053,8 +1095,8 @@
     </fields>
     <attributes/>
     <GUI>
-      <xloc>384</xloc>
-      <yloc>288</yloc>
+      <xloc>448</xloc>
+      <yloc>368</yloc>
     </GUI>
   </transform>
   <transform>
@@ -1070,6 +1112,10 @@
     </partitioning>
     <fields>
       <field>
+        <name>estacion</name>
+        <rename>name</rename>
+      </field>
+      <field>
         <name>﻿long</name>
         <rename>longitude</rename>
       </field>
@@ -1078,15 +1124,288 @@
         <rename>latitude</rename>
       </field>
       <field>
-        <name>estacion</name>
-        <rename>name</rename>
+        <name>linea</name>
+        <rename>subtype</rename>
       </field>
       <select_unspecified>N</select_unspecified>
     </fields>
     <attributes/>
     <GUI>
-      <xloc>384</xloc>
+      <xloc>464</xloc>
       <yloc>192</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Select values 4</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>nombre</name>
+        <rename>name</rename>
+      </field>
+      <field>
+        <name>﻿long</name>
+        <rename>longitude</rename>
+      </field>
+      <field>
+        <name>lat</name>
+        <rename>latitude</rename>
+      </field>
+      <field>
+        <name>linea</name>
+        <rename>subtype</rename>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>448</xloc>
+      <yloc>288</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Select values 4 2</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>Nombre</name>
+        <rename>name</rename>
+      </field>
+      <field>
+        <name>longitude</name>
+        <length>-2</length>
+        <precision>7</precision>
+      </field>
+      <field>
+        <name>latitude</name>
+        <length>-2</length>
+        <precision>7</precision>
+      </field>
+      <field>
+        <name>filenameCustom</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>464</xloc>
+      <yloc>464</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Select values 5</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>name</name>
+      </field>
+      <field>
+        <name>longitude</name>
+      </field>
+      <field>
+        <name>latitude</name>
+      </field>
+      <field>
+        <name>type</name>
+      </field>
+      <field>
+        <name>subtype</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>816</xloc>
+      <yloc>464</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Split fields</name>
+    <type>FieldSplitter</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <delimiter>-</delimiter>
+    <fields>
+      <field>
+        <idrem>N</idrem>
+        <length>-1</length>
+        <name>type</name>
+        <precision>-1</precision>
+        <trimtype>none</trimtype>
+        <type>String</type>
+      </field>
+      <field>
+        <idrem>N</idrem>
+        <length>-1</length>
+        <name>subtype</name>
+        <precision>-1</precision>
+        <trimtype>none</trimtype>
+        <type>String</type>
+      </field>
+    </fields>
+    <splitfield>type</splitfield>
+    <attributes/>
+    <GUI>
+      <xloc>704</xloc>
+      <yloc>464</yloc>
+    </GUI>
+  </transform>
+  <transform>
+    <name>Text file output</name>
+    <type>TextFileOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <schema_definition/>
+    <separator>;</separator>
+    <enclosure>"</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>UTF-8</encoding>
+    <endedLine/>
+    <fileNameInField>N</fileNameInField>
+    <fileNameField/>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>/project/parsed/filename</name>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>Y</do_not_open_new_file_init>
+      <extention>csv</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format/>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery/>
+    </file>
+    <fields>
+      <field>
+        <name>id</name>
+        <type>Integer</type>
+        <format/>
+        <currency>¤</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>name</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>longitude</name>
+        <type>Number</type>
+        <format/>
+        <currency>¤</currency>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>7</precision>
+      </field>
+      <field>
+        <name>latitude</name>
+        <type>Number</type>
+        <format/>
+        <currency>¤</currency>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>7</precision>
+      </field>
+      <field>
+        <name>type</name>
+        <type>None</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>subtype</name>
+        <type>None</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <roundingType>half_even</roundingType>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+    </fields>
+    <attributes/>
+    <GUI>
+      <xloc>1104</xloc>
+      <yloc>304</yloc>
     </GUI>
   </transform>
   <transform_error_handling>
